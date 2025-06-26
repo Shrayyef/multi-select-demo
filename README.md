@@ -2,14 +2,7 @@
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone <repository-url>
-cd react-test
-```
-
-2. Install dependencies:
+Install dependencies:
 
 ```bash
 npm install
