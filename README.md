@@ -1,5 +1,9 @@
 # Multi select react component
 
+## Demo
+
+Check out the live demo: [https://shrayyef.github.io/multi-select-demo/](https://shrayyef.github.io/multi-select-demo/)
+
 ## Installation
 
 Install dependencies:
